@@ -96,13 +96,13 @@ dentro do arquivo ***{ }package.json*** abaixo da linha *"test": "echo \"Error: 
 
 ​	podemos usar a função type para tipar nossas variáveis, facilitando assim seu uso e um melhor entendimento do código, conforme imagem abaixo;
 
-![alt text](/c:/Documents/DIO_BootCamp2022/DIO_Introducao_ao_JavaScript/img/type.png)
+![alt text](/c:/Documents/DIO_BootCamp2022/DIO-Introducao-ao-TypeScript/img/type.png)
 
 
 
 **Tipando parâmetros**
 
-![alt text](/c:/Documents/DIO_BootCamp2022/DIO_Introducao_ao_JavaScript/img/type1.png)
+![alt text](/c:/Documents/DIO_BootCamp2022/DIO-Introducao-ao-TypeScript/img/type1.png)
 
 
 
@@ -110,15 +110,15 @@ dentro do arquivo ***{ }package.json*** abaixo da linha *"test": "echo \"Error: 
 
 ​	Desta forma, apenas setando esse detalhe nós conseguimos garantir que nossos valores serão de fato um número;
 
-![alt text](/c:/Documents/DIO_BootCamp2022/DIO_Introducao_ao_JavaScript/img/type2.png)
+![alt text](/c:/Documents/DIO_BootCamp2022/DIO-Introducao-ao-TypeScript/img/type2.png)
 
 ​	Segue abaixo, um exemplo de erro que o type escript não pegaria pois não há erro em sua syntaxe e sim na sua lógica, mas se tivessemos tipado como no exemplo acima, o typescript teria dado o alerta de erro; 
 
-![alt text](/c:/Documents/DIO_BootCamp2022/DIO_Introducao_ao_JavaScript/img/type3.png)
+![alt text](/c:/Documents/DIO_BootCamp2022/DIO-Introducao-ao-TypeScript/img/type3.png)
 
 ​	Quando quisermos rodar uma função, mas não queremos que ela nos retorne nenhum valor ou resultado, podemos definir seu tipo como ***void***, conforme imagem abaixo;
 
-![alt text](/c:/Documents/DIO_BootCamp2022/DIO_Introducao_ao_JavaScript/img/type4.png)
+![alt text](/c:/Documents/DIO_BootCamp2022/DIO-Introducao-ao-TypeScript/img/type4.png)
 
 
 
@@ -126,7 +126,7 @@ dentro do arquivo ***{ }package.json*** abaixo da linha *"test": "echo \"Error: 
 
 ​	Usando callback nós podemos definir um valor e usar esse valor para diversos fins, conforme imagem abaixo;
 
-![alt text](/c:/Documents/DIO_BootCamp2022/DIO_Introducao_ao_JavaScript/img/type5.png)
+![alt text](/c:/Documents/DIO_BootCamp2022/DIO-Introducao-ao-TypeScript/img/type5.png)
 
 
 
